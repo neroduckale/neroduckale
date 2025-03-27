@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# I am 16 y.o. java/c# developer currently working on minecraft project named Vedrocraft!
 <!--
 **neroduckale/neroduckale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
